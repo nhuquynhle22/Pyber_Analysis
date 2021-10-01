@@ -1,5 +1,5 @@
 # Pyber_Analysis
-Analyze rideshare data from January to early May of 2019 and create a compelling visualization for the CEO.
+Analyzis of rideshare data from January to early May of 2019 and create a compelling visualization for the CEO.
 
 ##Overview of the analysis:
 
@@ -26,5 +26,3 @@ From our data we are able to tell what kind of fares will be commanded based on 
 1. Have your drivers assigned to different city types based off of what type of cities they typically work in.
 2. Charge more per mile in urban cities because trips most likely are shorter and drivers dont earn as much per trip.
 3. Make small charge increases or descreases based off of how many riders there are in the city during certain months.
-
-Thank you for reading.

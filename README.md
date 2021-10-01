@@ -15,7 +15,7 @@ Quick facts by city type, seen in the image below our facts
 - Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89143725/135694217-a0c3469a-feb5-4ff5-a57f-31109aabe1a7.png)
-                                    (Line graph of total fare by city type chart between January & April of 2019)
+                                                                         (Line graph of total fare by city type chart between January & April of 2019)
    
 ##Summary
 

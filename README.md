@@ -1,11 +1,11 @@
 # Pyber_Analysis
 Analyzis of rideshare data from January to early May of 2019 and create a compelling visualization for the CEO.
 
-##Overview of the analysis:
+## Overview of the analysis:
 
 The purpose of our analysis is to create a summary dataframe that will show ride sharing data by city type(Rural,Urban & Suburban). Once we find our data we are going to create a multiple line graph that shows total weekly fares by each city type. How we first pulled our data is by using the pandas Groupby() function with the count() and sum () to get the total number of drivers,rides and fares by city type. Once we pulled this information and assigned it to functions we were able to calculate our average fare per ride and driver. Once we had all of that information together we were able to format into a newdata frame and re-format the columns. In the second part of this excercise we used the pivot() and resample function to create a multiple line graph that shows the total fares for each week by city type between the months of January & April of 2019. 
 
-##Results:
+## Results:
 
 Quick facts by city type, seen in the image below our facts
 - Rural cities has the least amount of drivers, rides and total fares.
@@ -17,7 +17,7 @@ Quick facts by city type, seen in the image below our facts
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89143725/135694217-a0c3469a-feb5-4ff5-a57f-31109aabe1a7.png)
 (Line graph of total fare by city type chart between January & April of 2019)
    
-##Summary
+## Summary
 
 From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Although we didn't explore every individual city we still have a great grasp on what fares will look like from week to week based on city type which is enough information decide on rates that will need to be charged after we can classify what type of city the consumer lives in. In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
 

@@ -14,8 +14,9 @@ Quick facts by city type, seen in the image below our facts
 - Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
 - Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
 
-
- 		(Line graph of total fare by city type chart between January & April of 2019)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/89143725/135694217-a0c3469a-feb5-4ff5-a57f-31109aabe1a7.png)
+                                    (Line graph of total fare by city type chart between January & April of 2019)
+   
 ##Summary
 
 From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Although we didn't explore every individual city we still have a great grasp on what fares will look like from week to week based on city type which is enough information decide on rates that will need to be charged after we can classify what type of city the consumer lives in. In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
